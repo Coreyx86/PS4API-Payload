@@ -1,0 +1,7 @@
+export PS4SDK=/usr/local/PS4-SDK/
+printf "Exported PS4SDK env var\n"
+make
+printf "Successfully built the entire project\n"
+mv PS4-dlclose.bin payload.bin
+mv /usr/local/PS4-SDK/examples/PS4-dlclose/payload.bin /home/corey/Downloads
+printf "Moved the payload to downloads... already to upload file to server...\n\n"
