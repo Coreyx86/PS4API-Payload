@@ -1,6 +1,6 @@
 # PS4API - Server
 
-This is the payload that handles all server code for my (very basic)PS4API. It is built upon kr105rlz's PS4-dlclose exploit, so huge thanks to him for that code!!!!
+This is the payload that handles all server code for my <b><i>(very basic)PS4API</i></b>. It is built upon kr105rlz's PS4-dlclose exploit, so huge thanks to him for that code!!!!
 
 The code (my code, not the code written by CTurt or kr105rlz) is somewhat poorly written and could use some touching up, however I no longer have the time/interest to continue this project. So hopefully someone out there will find use of this project and "run" with it...
 
